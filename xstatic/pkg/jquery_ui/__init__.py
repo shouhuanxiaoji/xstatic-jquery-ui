@@ -11,7 +11,7 @@ NAME = __name__.split('.')[-1] # package name (e.g. 'foo' or 'foo_bar')
                                # please use a all-lowercase valid python
                                # package name
 
-VERSION = '1.12.1' # version of the packaged files, please use the upstream
+VERSION = '1.13.2' # version of the packaged files, please use the upstream
                    # version number
 BUILD = '1'  # our package build number, so we can release new builds
              # with fixes for xstatic stuff.
@@ -24,8 +24,8 @@ CLASSIFIERS = []
 KEYWORDS = '%s xstatic' % NAME
 
 # XStatic-* package maintainer:
-MAINTAINER = 'Thomas Waldmann'
-MAINTAINER_EMAIL = 'tw@waldmann-edv.de'
+MAINTAINER = 'Zhao Zhen'
+MAINTAINER_EMAIL = '345865759@163.com'
 
 # this refers to the project homepage of the stuff we packaged:
 HOMEPAGE = 'https://jqueryui.com/'
